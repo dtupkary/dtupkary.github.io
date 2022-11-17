@@ -1,10 +1,10 @@
 ---
 layout: archive
-<title: "Publications">
+title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-<# Publications>
+
 1.  **Fundamental Limitations in Lindblad Descriptions of systems weakly coupled to baths**. [Phys. Rev. A 105, 032208](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.105.032208), [arxiv](https://arxiv.org/abs/2105.12091).
     Devashish Tupkary, Archak Purkayastha, Abhishek Dhar, Manas Kulkarni. 
 
