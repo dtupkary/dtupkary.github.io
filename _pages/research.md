@@ -11,9 +11,9 @@ Below is a brief summary of my main research areas.
 I am broadly interested in all aspects of Quantum Key Distribution, and of Quantum Information Theory. 
 
 Recently, I have been interested in improving the analysis of the *classical* part of QKD protocols, such as information leakage during error-correction.
-My master's thesis involved imrpoving the performance for QKD protocols by inventing improved ways of processing *classical* data in QKD protocols. This is paricularly useful, since compared to improvements that change the hardware of the protocol, such modifications can be implemented very easily.
+My master's thesis involved improving the performance for QKD protocols by inventing improved ways of processing *classical* data in QKD protocols. This is particularly useful, since compared to hardware changes, such modifications can be implemented very easily.
 
-1. **Improved Keyrates for Quantum Key Distribution from two-way Classical Communication**. [link](https://www.uwspace.uwaterloo.ca/handle/10012/18772). Devashish Tupkary (Masters).
+1. **Improved Keyrates for Quantum Key Distribution from two-way Classical Communication**. [link](https://www.uwspace.uwaterloo.ca/handle/10012/18772). Devashish Tupkary.
 
 
 # Open Quantum Systems
