@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Devashish's Homepage"
+# title: "Welcome to Devashish's Homepage"
 #excerpt: "Hello !!"
 author_profile: true
 redirect_from: 
