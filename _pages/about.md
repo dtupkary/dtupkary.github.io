@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a graduate student at the [Institute for Quantum Computing](https://uwaterloo.ca/institute-for-quantum-computing/), Canada, where I am funded by the Mike and Ophelia Laziridis Fellowship. At IQC, I am  advised by [Norbert L&uuml;tkenhaus](https://uwaterloo.ca/physics-astronomy/people-profiles/norbert-lutkenhaus). 
+Hi. My name is Devashish Tupkary. I am a graduate student at the [Institute for Quantum Computing](https://uwaterloo.ca/institute-for-quantum-computing/), Canada, where I was awarded the Mike and Ophelia Laziridis Fellowship. At IQC, I am  advised by [Norbert L&uuml;tkenhaus](https://uwaterloo.ca/physics-astronomy/people-profiles/norbert-lutkenhaus). 
 
 I also work part-time as a Research Analyst at [evolutionQ](https://www.evolutionq.com).
 
@@ -17,7 +17,7 @@ My CV can be found here : [CV](files/CV.pdf) \
 You can email me at : \<lastname\> . \<firstname\> @gmail.com 
 
 # Research Interests
-I am broadly interest in both the theoretical and practical aspects of quantum information and computation, with a particular focus on Quantum Key Distribution (QKD). During my graduate studies, my work has primarily centered around the security analysis of practical QKD protocols. I remain deeply interested in everything related to QKD.
+I am broadly interested in the theoretical and practical aspects of quantum information and computation, with a particular focus on Quantum Key Distribution (QKD). During my graduate studies, my work has primarily centered around the security analysis of practical QKD protocols. I remain deeply interested in everything related to QKD.
 
 In addition, I continue to work on accurate desciptions of open quantum systems. Specifically, I am interested in examining the validity of various quantum master equations, independent of specific system-bath setups. 
 
