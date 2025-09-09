@@ -14,7 +14,7 @@ toc_sticky: true        # optional sticky ToC
    Shlok Nahar, <ins>Devashish Tupkary</ins>, Norbert Lütkenhaus. [arXiv:2503.06328](https://arxiv.org/abs/2503.06328). *Under review at Quantum.*
 
 1. **Security of quantum key distribution with source and detector imperfections through phase-error estimation**.  
-   Guillermo Currús-Lorenzo, Margarida Pereira, Shlok Nahar, <ins>Devashish Tupkary</ins>. [arXiv:2507.03549](https://arxiv.org/abs/2507.03549).
+   Guillermo Currás-Lorenzo, Margarida Pereira, Shlok Nahar, <ins>Devashish Tupkary</ins>. [arXiv:2507.03549](https://arxiv.org/abs/2507.03549).
 
 1. **QKD security proofs for decoy-state BB84: protocol variations, proof techniques, gaps and limitations**.  
    <ins>Devashish Tupkary</ins>, Ernest Y.-Z. Tan, Shlok Nahar, Lars Kamin, Norbert Lütkenhaus. [arXiv:2502.10340](https://arxiv.org/abs/2502.10340).
