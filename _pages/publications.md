@@ -7,7 +7,6 @@ toc: true               # optional table of contents
 toc_sticky: true        # optional sticky ToC
 ---
 
-# Publications
 
 1. **Authentication in Security Proofs for Quantum Key Distribution**.
    <ins>Devashish Tupkary</ins>, Shlok Nahar, Ernest Y.-Z. Tan. [arXiv:2601.17960](https://arxiv.org/abs/2601.17960). *Under review at IEEE Transactions on Information Theory.*
